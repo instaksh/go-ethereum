@@ -408,7 +408,7 @@
 		},
 		{
 			"checksumSHA1": "I7gkZEZn9PKJ+dzuBYLbFIUzNO4=",
-			"path": "github.com/status-im/keycard-go/derivationpath",
+			"path": "github.com/instaksh/keycard-go/tree/develop/derivationpath",
 			"revision": "8537d3370df43a30a3d450c023783d2e43432b89",
 			"revisionTime": "2019-03-16T09:03:35Z"
 		},
